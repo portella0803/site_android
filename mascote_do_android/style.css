@@ -7,6 +7,12 @@
     src: url(fonts/IDroid\ Italic.otf); 
 }
 
+* {
+    margin: 0;
+    padding: 0;
+ 
+}
+
 body {
     background-color: #F2E2CE;
     margin: auto;
@@ -15,7 +21,7 @@ body {
 header{
     background-image: linear-gradient(#2E62A6, #31609e, #022979);
     margin: 0px;
-    padding: 3em;
+    padding: 2em;
     text-align: center;
 }
 
@@ -50,12 +56,21 @@ nav > a{
     font-family: Bebas Neue;
     margin-left: 10px;
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.411);
+    padding: 0px;
+}
+
+nav > a:hover{
+    transition-duration: 0.5s;
+    background-color: #589df8;
+    border-radius: 10px;
+    padding: 5px;
 }
 
 main{
     background-color: #ffff;
-    margin-left: 40px;
-    margin-right: 40px;
+    max-width: 800px;
+    min-width: 400px;
+    margin: auto;
     padding: 1px;
     text-align: center;
     box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.411);
@@ -67,16 +82,18 @@ article > h1,h2{
     color: #0339A6;
     text-align: justify;
     font-family: idroid;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 article > h1 {
-    font-size: 2em;
+    font-size: 20px;
     font-weight: 100;
     margin-left: 20px;
 }
 
 article > h2{
-    font-size: 1.3em;
+    font-size: 1em;
     font-weight: 100;
     margin-left: 20px;
     background-image: linear-gradient(to right, #4f93eb91, #ffff);
@@ -93,6 +110,11 @@ p {
 }
 
 img {
+    width: 90%;
+    padding: 20px;
+}
+
+#bugdroid{
     width: 50%;
 }
 
@@ -106,6 +128,16 @@ img {
 .links:hover{
     text-decoration: underline;
 }
+
+.p{
+    padding-bottom: 20px;
+}
+
+p > span{
+    font-weight: bold;
+    color: #022979;
+}
+
 
 #midia{
     padding: 24px;
