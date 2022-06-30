@@ -1,6 +1,5 @@
 
 <h1>História do Mascote do Android</h1>
-<<<<<<< HEAD
 ##
 Site feito com o objetivo de cumprir o desafio do modulo 2 do curso de HTML e CSS, feito pelo Curso em Video.
 ##
@@ -10,10 +9,4 @@ Me auto desafiei a realizar essa criação sem assistir as aulas que explicavam 
 ##
 <h2>Veja um pouco de como ficou meu trabalho</h2>
 <a href="https://portella0803.github.io/site_mascote_do_android/mascote_do_android/">Curiosidades Tecnologicas</a>
-=======
 
-Site feito com o objetivo de cumprir o desafio do modulo 2 do curso de HTML e CSS, feito pelo Curso em Video.
-
-<h2>Veja um pouco como ficou o projeto</h2>
-<a href="https://portella0803.github.io/site_mascote_do_android/mascote_do_android/">Curiosidades Tecnologicas</a>
->>>>>>> d1765e8c2bc98450c304773ecd99c678513c1f01
