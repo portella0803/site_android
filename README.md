@@ -1,6 +1,5 @@
 
 <h1>História do Mascote do Android</h1>
-##
 Site feito com o objetivo de cumprir o desafio do modulo 2 do curso de HTML e CSS, feito pelo Curso em Video.
 ##
 <h2>Créditos</h2>
