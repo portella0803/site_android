@@ -7,5 +7,5 @@ Esse modelo de site foi baseado em uns dos desafios do curso que fiz no <a href=
 Me auto desafiei a realizar essa criação sem assistir as aulas que explicavam como cumprir esta tarefa e dei minha própria cara ao site, fiquei bem satisfeito com o resultado.
 ##
 <h2>Veja um pouco de como ficou meu trabalho</h2>
-<a href="https://portella0803.github.io/site_mascote_do_android/mascote_do_android/">Curiosidades Tecnologicas</a>
+<a href="https://portella0803.github.io/site_android/mascote_do_android/">Curiosidades Tecnologicas</a>
 
